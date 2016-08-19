@@ -56,7 +56,7 @@ public class MiWidget  extends AppWidgetProvider{
         //modificado desde la web 
 
         //Eliminamos las preferencias lde widget  borrados
-        //para probar el svn gti
+        //para probar el svn git de modifica
         for(int i=0; i<appWidgetIds.length;i++){
             int widgetId = appWidgetIds[i];
 
