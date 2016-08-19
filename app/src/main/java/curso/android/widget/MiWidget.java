@@ -53,6 +53,7 @@ public class MiWidget  extends AppWidgetProvider{
     public void onDeleted(Context context, int[] appWidgetIds) {
         SharedPreferences prefs = context.getSharedPreferences("WidgetPrefs",Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = prefs.edit();
+        //modificado desde la web 
 
         //Eliminamos las preferencias lde widget  borrados
         //para probar el svn gti
