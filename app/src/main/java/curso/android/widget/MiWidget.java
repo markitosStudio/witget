@@ -55,6 +55,7 @@ public class MiWidget  extends AppWidgetProvider{
         SharedPreferences.Editor editor = prefs.edit();
 
         //Eliminamos las preferencias lde widget  borrados
+        //para probar el svn gti
         for(int i=0; i<appWidgetIds.length;i++){
             int widgetId = appWidgetIds[i];
 
