@@ -55,6 +55,7 @@ public class MiWidget  extends AppWidgetProvider{
         SharedPreferences.Editor editor = prefs.edit();
         //modificado desde la web 
 
+        //Modificado desde Johanna
         //Eliminamos las preferencias lde widget  borrados
         //para probar el svn git de modifica
         //modificado desde linux 192.150.10.252
